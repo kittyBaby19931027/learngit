@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-I'm learning Git.
+I'm learning Git distributed under the GPL.
